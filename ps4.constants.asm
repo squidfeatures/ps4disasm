@@ -116,6 +116,7 @@ sound = 6
 sound_length = 8
 routine = $14
 battle_x_pos = $2C
+battle_y_pos = $2E
 parent = $3C
 ; ---------------------------------------------------------------------------
 
